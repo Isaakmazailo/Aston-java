@@ -1,5 +1,6 @@
 package com.mazailo.lesson2.library;
 
+import com.mazailo.lesson2.library.enums.Place;
 import com.mazailo.lesson2.library.logic.LibraryService;
 import com.mazailo.lesson2.library.model.Book;
 import com.mazailo.lesson2.library.model.Catalog;
