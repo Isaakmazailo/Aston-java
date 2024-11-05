@@ -1,4 +1,4 @@
-package com.mazailo.homework2.model.hero;
+package com.mazailo.homework2.model;
 
 public class Hero {
     private String name;
@@ -12,7 +12,7 @@ public class Hero {
     }
 
     public void attackEnemy() {
-        System.out.println("Hero" + getName() + " is attacking the Enemy");
+        System.out.println("Hero " + getName() + " is attacking the Enemy");
     }
 }
 
