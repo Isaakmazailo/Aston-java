@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="789b2329-cf83-4a58-bb41-1a3d07c3b9fd" name="Changes" comment="&#10;1. Создать класс Hero, представляющий собой героя и содержащий поле&#10;name.&#10;    Добавить конструктор, принимающий имя героя и геттер для имени (сеттер не нужен).&#10;    Добавить метод attackEnemy(), выводящий в консоль сообщение о том,&#10;что герой атакует врага.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazailo/homework2/TrainingGround.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazailo/homework2/model/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazailo/homework2/model/Hero.java" afterDir="false" />
-    </list>
+    <list default="true" id="789b2329-cf83-4a58-bb41-1a3d07c3b9fd" name="Changes" comment="Создать класс TrainingGround, содержащий метод main. Протестировать&#10;создание героя и его атаку." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,14 +41,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.TrainingGround.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.mazailo.homework2" />
@@ -149,7 +146,31 @@
       <option name="project" value="LOCAL" />
       <updated>1730820742763</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Создать класс TrainingGround, содержащий метод main. Протестировать&#10;создание героя и его атаку.">
+      <option name="closed" value="true" />
+      <created>1730821427926</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730821427926</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Создать класс TrainingGround, содержащий метод main. Протестировать&#10;создание героя и его атаку.">
+      <option name="closed" value="true" />
+      <created>1730821515760</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730821515760</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Создать класс TrainingGround, содержащий метод main. Протестировать&#10;создание героя и его атаку.">
+      <option name="closed" value="true" />
+      <created>1730821539643</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730821539643</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,6 +178,7 @@
     <MESSAGE value="add system library" />
     <MESSAGE value="finish" />
     <MESSAGE value="&#10;1. Создать класс Hero, представляющий собой героя и содержащий поле&#10;name.&#10;    Добавить конструктор, принимающий имя героя и геттер для имени (сеттер не нужен).&#10;    Добавить метод attackEnemy(), выводящий в консоль сообщение о том,&#10;что герой атакует врага." />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;1. Создать класс Hero, представляющий собой героя и содержащий поле&#10;name.&#10;    Добавить конструктор, принимающий имя героя и геттер для имени (сеттер не нужен).&#10;    Добавить метод attackEnemy(), выводящий в консоль сообщение о том,&#10;что герой атакует врага." />
+    <MESSAGE value="Создать класс TrainingGround, содержащий метод main. Протестировать&#10;создание героя и его атаку." />
+    <option name="LAST_COMMIT_MESSAGE" value="Создать класс TrainingGround, содержащий метод main. Протестировать&#10;создание героя и его атаку." />
   </component>
 </project>
