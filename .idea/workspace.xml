@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="789b2329-cf83-4a58-bb41-1a3d07c3b9fd" name="Changes" comment="finish">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazailo/homework2/model/Hero.java" afterDir="false" />
+    <list default="true" id="789b2329-cf83-4a58-bb41-1a3d07c3b9fd" name="Changes" comment="&#10;1. Создать класс Hero, представляющий собой героя и содержащий поле&#10;name.&#10;    Добавить конструктор, принимающий имя героя и геттер для имени (сеттер не нужен).&#10;    Добавить метод attackEnemy(), выводящий в консоль сообщение о том,&#10;что герой атакует врага.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazailo/homework2/TrainingGround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazailo/homework2/model/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazailo/homework2/model/Hero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,12 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mazailo.homework2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TrainingGround">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mazailo.lesson2.library.App" />
       <module name="Aston-java" />
@@ -65,8 +72,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TrainingGround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mazailo.homework2.TrainingGround" />
+      <module name="Aston-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mazailo.homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TrainingGround" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -112,13 +133,30 @@
       <option name="project" value="LOCAL" />
       <updated>1730213463127</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&#10;1. Создать класс Hero, представляющий собой героя и содержащий поле&#10;name.&#10;    Добавить конструктор, принимающий имя героя и геттер для имени (сеттер не нужен).&#10;    Добавить метод attackEnemy(), выводящий в консоль сообщение о том,&#10;что герой атакует врага.">
+      <option name="closed" value="true" />
+      <created>1730820717408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730820717408</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&#10;1. Создать класс Hero, представляющий собой героя и содержащий поле&#10;name.&#10;    Добавить конструктор, принимающий имя героя и геттер для имени (сеттер не нужен).&#10;    Добавить метод attackEnemy(), выводящий в консоль сообщение о том,&#10;что герой атакует врага.">
+      <option name="closed" value="true" />
+      <created>1730820742763</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730820742763</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add slasses for models" />
     <MESSAGE value="add system library" />
     <MESSAGE value="finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish" />
+    <MESSAGE value="&#10;1. Создать класс Hero, представляющий собой героя и содержащий поле&#10;name.&#10;    Добавить конструктор, принимающий имя героя и геттер для имени (сеттер не нужен).&#10;    Добавить метод attackEnemy(), выводящий в консоль сообщение о том,&#10;что герой атакует врага." />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;1. Создать класс Hero, представляющий собой героя и содержащий поле&#10;name.&#10;    Добавить конструктор, принимающий имя героя и геттер для имени (сеттер не нужен).&#10;    Добавить метод attackEnemy(), выводящий в консоль сообщение о том,&#10;что герой атакует врага." />
   </component>
 </project>
